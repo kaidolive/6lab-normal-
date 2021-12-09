@@ -1,0 +1,14 @@
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.exe
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.deps.json
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.runtimeconfig.json
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.runtimeconfig.dev.json
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.dll
+C:\Users\sanch\source\repos\6lab\6lab\bin\Debug\netcoreapp3.1\6lab.pdb
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.csproj.AssemblyReference.cache
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.AssemblyInfoInputs.cache
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.AssemblyInfo.cs
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.dll
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.pdb
+C:\Users\sanch\source\repos\6lab\6lab\obj\Debug\netcoreapp3.1\6lab.genruntimeconfig.cache
